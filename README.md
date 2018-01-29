@@ -4,10 +4,10 @@
 
 ## Installation
 
-Add this line to your application's Gemfile:
+Add this line to your application's Gemfile
 
 ```ruby
-gem 'c_view_tool'
+gem c_view_tool
 ```
 
 And then execute:
@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+CViewTool::Renderer.copyright "Jacob Cadena", "All rights reserved"
+```
 
 ## Development
 
